@@ -1,0 +1,97 @@
+.titulo{
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150px;
+    margin-top: 0px;
+    margin-left: 1100px;
+    color: aliceblue;
+}
+.banner{
+    background-color: black;
+    height: 150px;
+    width: 2530px;
+    position: fixed;
+}
+.tipo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    margin-left: 750px;
+    margin-top: 0px;
+}
+li{
+    display: inline-block;
+    margin: 100px;
+    margin-top: 0px;
+}
+.lupa{
+    width: 100px;
+    height: 100px;
+    margin-left: 2000px;
+    margin-top: 150px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mujer{
+    height: 1000px;
+}
+.hombre{
+    height: 1000px;
+}
+.ninio{
+    height: 1000px;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    margin-left: 1000px;
+    margin-top: -900px;
+}
+.botontalla{
+    margin-left: 1000px;
+    color: aquamarine;
+}
+.color{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    margin-left: 1000px;
+    margin-top: -850px;
+    color: black;
+}
+.botoncolor{
+    margin-left: 1000px;
+    margin-top: -800;
+}
+.precio{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    margin-top: -150px;
+}
+.botonpagar{
+    margin-left: 1000px;
+    font-size: 150px;
+}
+.anuncio{
+    margin-left: 1500px;
+    margin-top: -850px;
+}
+.home{
+    width: 100px;
+    height: 100px;
+    margin-left: 2200px;
+    margin-top: -200px;
+}
+footer{
+    margin-top: 900px;
+}
+.piepag{
+    border-color: black;
+    background-color: blanchedalmond;
+    height: 150px;
+}
+.textopie{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

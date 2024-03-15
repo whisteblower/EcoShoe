@@ -1,0 +1,134 @@
+  h2 {
+
+    font-family: Montserrat;
+    font-size: 20px;
+    padding-top: 10px;
+ }
+
+
+h1 {
+
+    font-family: Montserrat;
+    padding-top: 45px;
+
+ }
+
+ p {
+    font-size: 11px;
+    font-family: Montserrat;
+
+ 
+
+ }
+.category-card {
+    position: relative;
+    display: inline-block;
+}
+
+
+.custom-fondo .container {
+    padding-left: 0; 
+}
+
+.custom-fondo h1 {
+    font-weight: bold;
+}
+
+.custom-fondo p {
+    font-weight: normal;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #d8c7b6;
+    text-decoration: underline;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #c1ae97!important;
+    border-color: #c1ae97!important;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #665c51!important;
+    border-color: #665c51!important;
+}
+
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle{
+    color: #fff;
+    background-color: #665c51;
+    border-color: #665c51;
+}
+
+.btn-primary.focus, .btn-primary:focus
+{
+    color: #fff;
+    background-color: #665c51;
+    border-color: #665c51;
+}
+
+h5{
+    color: #665c51;
+}
+
+.icon-style {
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.fondo1 {
+    background-image: url('../img/fondoh.jpg'); 
+    background-size: cover;
+    background-position: center;
+    color: white; 
+    height: 170px;
+    margin-bottom: 25px;
+}
+
+.fondo2 {
+    background-image: url('../img/fondom.jpg'); 
+    background-size: cover;
+    background-position: center;
+    color: white; 
+    height: 170px;
+    margin-bottom: 25px;
+}
+.fondo3 {
+    background-image: url('../img/fondon.jpg'); 
+    background-size: cover;
+    background-position: center;
+    color: white; 
+    height: 170px;
+    margin-bottom: 25px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap');
+
+.menu-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; 
+    padding: 10px; 
+    background-color: #d6cab9; 
+    width: 100%;
+}
+
+.menu-item {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: white; 
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    color: #665c51; 
+}
